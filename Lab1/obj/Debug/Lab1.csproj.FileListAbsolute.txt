@@ -1,0 +1,7 @@
+C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\Lab1\bin\Debug\Lab1.exe
+C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\Lab1\obj\Debug\Lab1.exe
+C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\Lab1\obj\Debug\Lab1.pdb
