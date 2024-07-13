@@ -22,6 +22,7 @@ namespace ConsoleApp1
             if (str1 == str2)
             {
                 Console.WriteLine("Предложение палиндром");
+
             }
             else
             {
