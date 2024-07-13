@@ -1,7 +1,0 @@
-C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\ConsoleApp1\obj\Debug\Lab2.csproj.AssemblyReference.cache
-C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\ConsoleApp1\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
-C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\Марина\Desktop\C#\BelikAE\Module_3_6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
